@@ -9,7 +9,7 @@ int main()
     {
         scanf("%d",&a[i]);
     }
-    int temp,j;
+    int temp,j
     //insertion sort code.
     for(i=1;i<n;i++)
     {
